@@ -6,4 +6,5 @@ The Android Navigation Component is a framework that simplifies navigation in An
 ## Screenshots
 
 ![App Screenshot](Screenshot1.png)
-
+![App Screenshot](Screenshot2.png)
+![App Screenshot](Screenshot3.png)
